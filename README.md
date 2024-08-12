@@ -27,7 +27,7 @@
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-- **Importance of Project Priority Matrix:** A Project Priority Matrix is a tool used in project management to prioritize tasks or projects based on various factors like impact, urgency, or resources. It helps in making informed decisions by visually categorizing tasks into different priority levels. This matrix helps streamline your focus, ensuring that the most critical and impactful tasks are handled first.
+- **Importance of Project Priority Matrix:** A [Project Priority Matrix](https://github.com/alokjawale/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix_Alok.pdf) is a tool used in project management to prioritize tasks or projects based on various factors like impact, urgency, or resources. It helps in making informed decisions by visually categorizing tasks into different priority levels. This matrix helps streamline your focus, ensuring that the most critical and impactful tasks are handled first.
 
 
 
