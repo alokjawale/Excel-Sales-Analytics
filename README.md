@@ -1,3 +1,19 @@
+## Files Uploaded :
+**1.** Customer Discount Approval
+
+**2.** Customer Performance Report
+
+**3.** Market Performance vs Target Report.pdf
+
+**4.** P&L Statement by Fiscal Year.pdf
+
+**5.** P&L Statement by Markets.pdf
+
+**6.** P&L Statement by Months.pdf
+
+**7.** Project Priority Matrix.pdf
+
+
 ## Sales Report :
 
 
@@ -10,6 +26,10 @@
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Importance of Project Priority Matrix:** A Project Priority Matrix is a tool used in project management to prioritize tasks or projects based on various factors like impact, urgency, or resources. It helps in making informed decisions by visually categorizing tasks into different priority levels. This matrix helps streamline your focus, ensuring that the most critical and impactful tasks are handled first.
+
+
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
